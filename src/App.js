@@ -1,4 +1,4 @@
-import AnimatedRoutes from './components/animatedRoutes';
+import AnimatedRoutes from './components/AnimatedRoutes';
 
 function App() {
   const personalDetails = {

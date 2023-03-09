@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import styles from './home.module.css';
-import me from "../images/me.png";
+import me from "../../images/me.png";
 
 const Home = ({ name, tagline }) => {
 
