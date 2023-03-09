@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import styles from './home.module.css';
 import me from "../../images/me.png";
+import SocialIcons from "../../components/SocialIcons";
 
 const Home = ({ name, tagline }) => {
 
@@ -31,6 +32,7 @@ const Home = ({ name, tagline }) => {
                 >
                     {tagline}
                 </motion.p>
+            <SocialIcons />
             </div>
             <motion.img
                 className={styles.meImage}
@@ -41,7 +43,6 @@ const Home = ({ name, tagline }) => {
                 src={me}
                 alt=""
             />
-            {/* <SocialIcons /> */}
         </section>
     );
 };

@@ -21,6 +21,7 @@
     font-weight: 700;
     font-size: calc(8000vw / 1018);
     -webkit-text-stroke: calc(100vw / 1018) #f5ac7c;
+    margin-bottom: 40px;
 }
 
 .description {
