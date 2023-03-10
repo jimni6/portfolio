@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import styles from './home.module.css';
 import me from "../../images/me.png";
-import SocialIcons from "../../components/SocialIcons";
+import SocialIcons from "../../components/socialIcons";
 
 const Home = ({ name, tagline }) => {
 

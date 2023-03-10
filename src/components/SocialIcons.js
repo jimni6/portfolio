@@ -1,5 +1,5 @@
 import { IconBrandGithub, IconBrandLinkedin, IconBrandInstagram, IconBrandTwitter } from '@tabler/icons-react';
-import styles from './SocialIcons.module.css';
+import styles from './socialIcons.module.css';
 
 const SocialIcons = () => {
     return (

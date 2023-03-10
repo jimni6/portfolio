@@ -1,5 +1,5 @@
-import Header from "./components/Header";
-import AnimatedRoutes from './components/AnimatedRoutes';
+import Header from "./components/header";
+import AnimatedRoutes from './components/animatedRoutes';
 
 function App() {
   const personalDetails = {

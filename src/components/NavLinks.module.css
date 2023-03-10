@@ -75,7 +75,7 @@
         background-color: #292929;
         animation: slideDown 0.3s ease-in-out forwards;
     }
-
+    
     .linksClosed {
         display: none;
         background-color: transparent;

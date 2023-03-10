@@ -1,6 +1,6 @@
-import NavLinks from "./NavLinks";
+import NavLinks from "./navLinks";
 import logo from "../images/logo.svg";
-import styles from './Header.module.css';
+import styles from './header.module.css';
 
 const Header = () => {
     return (
