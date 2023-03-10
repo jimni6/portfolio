@@ -5,6 +5,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 1;
 }
 
 .textContainer {
@@ -17,6 +18,7 @@
 }
 
 .name {
+    z-index: 0;
     color: #292929;
     font-weight: 700;
     font-size: calc(8000vw / 1018);
@@ -26,11 +28,13 @@
 
 .description {
     color: #f5ac7c;
-    font-size: calc(4000vw / 1018)
+    font-size: calc(4000vw / 1018);
+    z-index: 0;
 }
 
 .meImage {
     position: absolute;
+    z-index: 0;
     top: 10%;
     right: 0;
     height: 100%;
