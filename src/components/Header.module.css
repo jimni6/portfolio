@@ -1,0 +1,19 @@
+.header {
+    position: relative;
+    padding: 30px;
+    color: #f5ac7c;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 4;
+}
+
+.logo {
+    width: 150px;
+}
+
+@media (max-width: 750px) {
+    .logo {
+        width: 40px;
+    }
+}

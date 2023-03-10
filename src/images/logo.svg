@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(70.556 38.418)">
+<rect x="-57.884" y="-26.64" width="185.92" height="185.86" fill="#555c50" stroke="#555c50" stroke-linecap="round" stroke-linejoin="round" stroke-width="20" style="paint-order:markers stroke fill"/>
+<text transform="matrix(.97352 0 0 1.6133 -267.96 -686.88)" fill="#1a1a1a" font-family="'Neutraface Text'" font-size="96px" font-weight="bold" style="line-height:1.25;shape-inside:url(#rect335);white-space:pre" xml:space="preserve"><tspan x="217.80273" y="476.41125">J</tspan></text>
+<ellipse cx="1.1912" cy="-7.7965" rx="6.366" ry="10.376" fill="#e48e55" stroke-width=".84462"/>
+<ellipse cx="86.784" cy="-7.7883" rx="6.366" ry="10.376" fill="#e48e55" stroke-width=".84462"/>
+<text transform="matrix(-.97352 0 0 1.6133 288.81 -687.03)" fill="#1a1a1a" font-family="'Neutraface Text'" font-size="96px" font-weight="bold" style="line-height:1.25;shape-inside:url(#rect18762);white-space:pre" xml:space="preserve"><tspan x="217.80273" y="476.41125">N</tspan></text>
+</g>
+</svg>

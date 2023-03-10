@@ -1,3 +1,4 @@
+import Header from "./components/Header";
 import AnimatedRoutes from './components/AnimatedRoutes';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
   };
   return (
     <>
+      <Header />
       <AnimatedRoutes personalDetails={personalDetails} />
     </>
   );
